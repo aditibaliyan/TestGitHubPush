@@ -7,6 +7,8 @@ public class Coder {
 	private int age;
 	private Gender gender;
 		
+	private int preffered_diet;
+	
 	public Coder(double height, double weight) {
 		super();
 		this.height = height;

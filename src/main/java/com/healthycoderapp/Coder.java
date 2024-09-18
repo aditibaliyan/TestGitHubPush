@@ -6,7 +6,7 @@ public class Coder {
 	private double weight;
 	private int age;
 	private Gender gender;
-		
+	//optional	
 	private int preffered_diet;
 	
 	public Coder(double height, double weight) {

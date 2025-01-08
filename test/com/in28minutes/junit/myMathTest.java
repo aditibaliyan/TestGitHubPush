@@ -13,8 +13,10 @@ import org.junit.jupiter.api.Test;
 
 class myMathTest {
     private myMath math= new myMath();
+
     @BeforeAll
     static void beforeAll() {
+		System.out.println("dummy tests");
     	System.out.println("before All");
     }
     
